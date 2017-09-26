@@ -9,7 +9,7 @@
  */
 /**
  * A class that teaches you how to write clean code.
- * @author kukad
+ * @author Isha Kukadia
  */
 public class ReclamationProject {
     /**
